@@ -1,6 +1,6 @@
 # Hello, I'm James Adolfsson!
 
-<img src="https://images.unsplash.com/photo-1543196614-e046c7d3d82e?q=80&w=1941&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner" width="800" height="300">
+<img src="https://images.unsplash.com/photo-1543196614-e046c7d3d82e?q=80&w=1941&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner" width="800" height="300" border-radius="10px" >
 
 ##  About Me
 I’m a 28-year-old Freelancer and Company Owner specializing as a Junior Software Engineer and Web Designer based in Stockholm. With a passion for crafting innovative solutions, I strive to align my work with customer goals and enhance user experiences through creativity and technical expertise
