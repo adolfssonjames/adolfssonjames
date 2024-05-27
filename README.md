@@ -14,7 +14,9 @@ I specialize in building dynamic and responsive websites that are both visually 
 - **Languages**: JavaScript, HTML, CSS, Python
 - **Frameworks**: React, Next.js
 - **Tools & Platforms**: Git, Figma, Framer, Webflow
- ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfssonjames&layout=compact&theme=radical)
+
+  
+- ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfssonjames&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out!
