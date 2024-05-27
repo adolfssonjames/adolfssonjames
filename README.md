@@ -2,7 +2,7 @@
 
 ![Banner](https://your-image-link.com/banner.png)
 
-## 🚀 About Me
+## 🙇‍♂️ About Me
 I'm a 28-year-old **Junior Software Engineer** and **Web Designer** based in beautiful Stockholm. I have a passion for creating innovative solutions that align with customer goals and enhance user experiences.
 
 - 💻 **Role**: Junior Software Engineer & Web Designer
