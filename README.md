@@ -2,20 +2,20 @@
 
 ![Banner](https://your-image-link.com/banner.png)
 
-## 👨‍🦲 About Me
+##  About Me
 I'm a 28-year-old **Junior Software Engineer** and **Web Designer** based in beautiful Stockholm. I have a passion for creating innovative solutions that align with customer goals and enhance user experiences.
 
 - 💻 **Role**: Junior Software Engineer & Web Designer
 - 🌍 **Location**: Stockholm, Sweden
 
-## 🎯 What I Do
+##  What I Do
 I specialize in building dynamic and responsive websites that are both visually appealing and functionally robust. My goal is to craft solutions that not only meet the client's needs but also exceed their expectations.
 
 - **Languages**: JavaScript, HTML, CSS, Python
 - **Frameworks**: React, Next.js
 - **Tools & Platforms**: Git, Figma, Framer, Webflow
 
-## 🌟 Interests
+##  Interests
 Outside of my professional life, I have a few hobbies that I am deeply passionate about:
 
 - 🏍️ **Motorcycling**: I love the thrill of riding and the freedom it brings.
