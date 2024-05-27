@@ -35,7 +35,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfssonjames&layout=compact&theme=radical)
 
 ## 📝 Recent Projects
-- **[Soul Sisters](https://soulsistershop.vercel.app/)**: Showcase and booking website for a clothing company in Bollnäs, Sweden.
+- **[SOUL SISTERS](https://soulsistershop.vercel.app/)**: Showroom and booking website for a clothing company in Bollnäs, Sweden.
 - **[Upcoming, stay tuned!](url)**:.
 
 Thanks for visiting my profile! Let's build something amazing together.
