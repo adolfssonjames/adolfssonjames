@@ -25,8 +25,8 @@ Outside of my professional life, I have a few hobbies that I am deeply passionat
 ## 📫 Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-- **Email**: [adolfssonajames@gmail.com](mailto:adolfssonjames@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/james-adolfsson/)
+- **Email**: [adolfssonjames@gmail.com](mailto:adolfssonjames@gmail.com)
+- **LinkedIn**: [Connect with me on LinkedIn!](https://www.linkedin.com/in/james-adolfsson/)
 - **Phone**: [+46 73 703 1895](tel:+46737031895)
 
 ## 📊 GitHub Stats
