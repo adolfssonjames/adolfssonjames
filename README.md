@@ -15,13 +15,6 @@ I specialize in building dynamic and responsive websites that are both visually 
 - **Frameworks**: React, Next.js
 - **Tools & Platforms**: Git, Figma, Framer, Webflow
 
-##  Interests
-Outside of my professional life, I have a few hobbies that I am deeply passionate about:
-
-- 🏍️ **Motorcycling**: I love the thrill of riding and the freedom it brings.
-- 🚐 **Camping Van Adventures**: Exploring new places and embracing the nomadic lifestyle.
-- 🏂 **Snowboarding**: Hitting the slopes and enjoying the snowy landscapes.
-
 ## 📫 Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
@@ -38,4 +31,14 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - **[SOUL SISTERS](https://soulsistershop.vercel.app/)**: Showroom and booking website for a clothing company in Bollnäs, Sweden.
 - **[Upcoming, stay tuned!](url)**:.
 
+
+##  Interests
+Outside of my professional life, I have a few hobbies that I am deeply passionate about:
+
+- 🏍️ **Motorcycling**: I love the thrill of riding and the freedom it brings.
+- 🚐 **Camping Van Adventures**: Exploring new places and embracing the nomadic lifestyle.
+- 🏂 **Snowboarding**: Hitting the slopes and enjoying the snowy landscapes.
+
+
 Thanks for visiting my profile! Let's build something amazing together.
+
