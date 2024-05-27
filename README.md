@@ -1,9 +1,9 @@
 # Hello, I'm James Adolfsson!
 
-![Banner](https://images.unsplash.com/photo-1460794418188-1bb7dba2720d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Banner](<img src="https://unsplash.com/photos/silhouette-of-a-person-sitting-in-front-of-a-laptop-aso6SYJZGps" alt="Banner" width="800" height="200">)
 
 ##  About Me
-I'm a 28-year-old **Junior Software Engineer** and **Web Designer** based in beautiful Stockholm. I have a passion for creating innovative solutions that align with customer goals and enhance user experiences.
+I’m a 28-year-old Freelancer and Company Owner specializing as a Junior Software Engineer and Web Designer based in Stockholm. With a passion for crafting innovative solutions, I strive to align my work with customer goals and enhance user experiences through creativity and technical expertise
 
 - 💻 **Role**: Junior Software Engineer & Web Designer
 - 🌍 **Location**: Stockholm, Sweden
