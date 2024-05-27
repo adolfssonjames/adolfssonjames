@@ -1,6 +1,6 @@
 # Hello, I'm James Adolfsson!
 
-<img src="1682460620803.jpg" alt="Banner" width="800" height="200" style="border-radius: 8px;">
+<img src="1682460620803.jpg" alt="Banner" width="1000" height="300" ">
 
 ##  About Me
 I’m a 28-year-old Freelancer and Company Owner specializing as a Junior Software Engineer and Web Designer based in Stockholm. With a passion for crafting innovative solutions, I strive to align my work with customer goals and enhance user experiences through creativity and technical expertise
