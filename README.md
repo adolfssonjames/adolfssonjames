@@ -1,6 +1,6 @@
 # Hello, I'm James Adolfsson!
 
-![Banner](https://your-image-link.com/banner.png)
+![Banner](https://images.unsplash.com/photo-1611773951628-0d5b4c2507fb?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ##  About Me
 I'm a 28-year-old **Junior Software Engineer** and **Web Designer** based in beautiful Stockholm. I have a passion for creating innovative solutions that align with customer goals and enhance user experiences.
@@ -22,10 +22,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - **LinkedIn**: [Connect with me on LinkedIn!](https://www.linkedin.com/in/james-adolfsson/)
 - **Phone**: [+46 73 703 1895](tel:+46737031895)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfssonjames&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfssonjames&layout=compact&theme=radical)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfssonjames&layout=compact&theme=radical)
 
 ## 📝 Recent Projects
 - **[SOUL SISTERS](https://soulsistershop.vercel.app/)**: Showroom and booking website for a clothing company in Bollnäs, Sweden.
