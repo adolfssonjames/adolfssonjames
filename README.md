@@ -3,7 +3,7 @@
 <img src="Skärmbild 2024-05-27 154006.png" alt="Banner" width="1000" height="250px">
 
 ##  About Me
-I’m a 28-year-old Freelancer and Company Owner specializing as a Junior Software Engineer and Web Designer based in Stockholm. With a passion for crafting innovative solutions, I strive to align my work with customer goals and enhance user experiences through creativity and technical expertise
+I’m a 28 year old Freelancer and Company Owner specializing as a Junior Software Engineer and Web Designer based in Stockholm. With a passion for crafting innovative solutions, I strive to align my work with customer goals and enhance user experiences through creativity and technical expertise
 
 - 💻 **Role**: Junior Software Engineer & Web Designer
 - 🌍 **Location**: Stockholm, Sweden
@@ -22,12 +22,11 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - **LinkedIn**: [Connect with me on LinkedIn!](https://www.linkedin.com/in/james-adolfsson/)
 - **Phone**: [+46 73 703 1895](tel:+46737031895)
 
-![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfssonjames&layout=compact&theme=radical)
-
 ## 📝 Recent Projects
 - **[SOUL SISTERS](https://soulsistershop.vercel.app/)**: Showroom and booking website for a clothing company in Bollnäs, Sweden.
 - **[Upcoming, stay tuned!](url)**:.
 
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfssonjames&layout=compact&theme=radical)
 
 ##  Interests
 Outside of my professional life, I have a few hobbies that I am deeply passionate about:
