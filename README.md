@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm James Adolfsson!
 
 ![Banner](https://your-image-link.com/banner.png)
 
@@ -12,8 +12,8 @@ I'm a 28-year-old **Junior Software Engineer** and **Web Designer** based in bea
 I specialize in building dynamic and responsive websites that are both visually appealing and functionally robust. My goal is to craft solutions that not only meet the client's needs but also exceed their expectations.
 
 - **Languages**: JavaScript, HTML, CSS, Python
-- **Frameworks**: React, Vue.js, Django
-- **Tools**: Git, Figma, Adobe XD
+- **Frameworks**: React, Next.js
+- **Tools & Platforms**: Git, Figma, Framer, Webflow
 
 ## 🌟 Interests
 Outside of my professional life, I have a few hobbies that I am deeply passionate about:
@@ -25,17 +25,17 @@ Outside of my professional life, I have a few hobbies that I am deeply passionat
 ## 📫 Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: [adolfssonajames@gmail.com](mailto:adolfssonjames@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/james-adolfsson/)
+- **Phone**: [+46 73 703 1895](tel:+46737031895)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=adolfssonjames&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adolfssonjames&layout=compact&theme=radical)
 
 ## 📝 Recent Projects
-- **[Project Name](https://github.com/yourusername/projectname)**: A brief description of what this project is about.
-- **[Another Project](https://github.com/yourusername/anotherproject)**: A brief description of what this project is about.
+- **[Soul Sisters](https://soulsistershop.vercel.app/)**: Showcase and booking website for a clothing company in Bollnäs, Sweden.
+- **[Upcoming, stay tuned!](url)**:.
 
 Thanks for visiting my profile! Let's build something amazing together.
