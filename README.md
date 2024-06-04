@@ -3,7 +3,7 @@
 <img src="Skärmbild 2024-05-27 154006.png" alt="Banner" width="1000" height="250px">
 
 ##  About Me
-I’m a 28 year old Freelancer specializing as a Junior Software Engineer and Web Designer based in Stockholm. With a passion for crafting innovative solutions, I strive to align my work with customer goals and enhance user experiences through creativity and technical expertise
+I’m a 28 year old Freelancer, specializing as a Junior Software Engineer and Web Designer based in Stockholm. With a passion for crafting innovative solutions, I strive to align my work with customer goals and enhance user experiences through creativity and technical expertise
 
 - 💻 **Role**: Junior Software Engineer & Web Designer
 - 🌍 **Location**: Stockholm, Sweden
@@ -20,7 +20,7 @@ I specialize in building dynamic and responsive websites that are both visually 
 ## 📫 Get in Touch
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-- **Email**: [adolfssonjames@gmail.com](mailto:adolfssonjames@gmail.com)
+- **Email**: [james@adolfssondigital.com](mailto:james@adolfssondigital.com)
 - **LinkedIn**: [Connect with me on LinkedIn!](https://www.linkedin.com/in/james-adolfsson/)
 - **Phone**: [+46 73 703 1895](tel:+46737031895)
 
