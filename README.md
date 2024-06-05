@@ -26,8 +26,8 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ## 📝 Recent Projects
 - **[SOUL SISTERS](https://www.soulsistershop.app/)**: Showroom and booking website for a clothing company in Bollnäs, Sweden.
-- **[ADOLFSSON DIGITAL](https://www.adolfssondigital.com/)**: My company site, offer soulutions and services for web development and design.
-- ** Upcoming projects, stay tuned.
+- **[ADOLFSSON DIGITAL](https://www.adolfssondigital.com/)**: My company site, We offer soulutions and services for web development and web design.
+-  Upcoming projects, stay tuned.
 
 ##  Interests
 Outside of my professional life, I have a few hobbies that I am deeply passionate about:
