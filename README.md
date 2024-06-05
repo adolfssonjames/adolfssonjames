@@ -25,8 +25,9 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - **Phone**: [+46 73 703 1895](tel:+46737031895)
 
 ## 📝 Recent Projects
-- **[SOUL SISTERS](https://soulsistershop.vercel.app/)**: Showroom and booking website for a clothing company in Bollnäs, Sweden.
-- **[Upcoming, stay tuned!](url)**:
+- **[SOUL SISTERS](https://www.soulsistershop.app/)**: Showroom and booking website for a clothing company in Bollnäs, Sweden.
+- **[ADOLFSSON DIGITAL](https://www.adolfssondigital.com/)**: My company site, offer soulutions and services for web development and design.
+- ** Upcoming projects, stay tuned.
 
 ##  Interests
 Outside of my professional life, I have a few hobbies that I am deeply passionate about:
